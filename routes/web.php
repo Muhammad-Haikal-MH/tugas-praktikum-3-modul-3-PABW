@@ -57,7 +57,7 @@ Route::get('/berita', function () {
     return ('berita');
 });
 
-Route::get('/mitigasi', function () {
+Route::get('/mitigasi', function () { 
     return ('mitigasi');
 });
 
